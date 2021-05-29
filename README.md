@@ -6,9 +6,9 @@
 <img src="https://img.shields.io/static/v1?label=Spring&message=2.5.0&color=blue&style=for-the-badge&logo=spring">
 </p>
 <p align="center">
- <a href="###Regra%de%negocio">Regra de negocio</a> •
+ <a href="###Regra-de-negocio">Regra de negocio</a> •
  <a href="#Desafio">Desafio</a> • 
- <a href="#Recursos%Solicitados">Recursos Solicitados</a> •
+ <a href="#recursos-solicitados">Recursos Solicitados</a> •
  <a href="#Extras">Extras</a> •
  <a href="#Testando">Testando</a>
 
