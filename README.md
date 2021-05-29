@@ -6,16 +6,16 @@
 <img src="https://img.shields.io/static/v1?label=Spring&message=2.5.0&color=blue&style=for-the-badge&logo=spring">
 </p>
 <p align="center">
- <a href="###Regra">Regra de negócio</a> •
+ <a href="###Regra%de%negocio">Regra de negocio</a> •
  <a href="#Desafio">Desafio</a> • 
- <a href="#Recursos">Recursos Solicitados</a> •
+ <a href="#Recursos%Solicitados">Recursos Solicitados</a> •
  <a href="#Extras">Extras</a> •
  <a href="#Testando">Testando</a>
 
 </p>
 
 
-### Regra de negócio
+### Regra de negocio
 
 Serviço que gera ticket de atendimento para um hospital de acordo com a prioridade do paciente. Podendo ser um paciente preferencial ou comum.
 Para o paciente preferencial o CodeTicketNumber deve iniciar com as letras PP (preferred patient).
